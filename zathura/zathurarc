@@ -1,0 +1,4 @@
+set selection-clipboard clipboard
+set guioptions none
+set highlight-color "#D90429"
+set highlight-active-color "#06A77D"
